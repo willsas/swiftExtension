@@ -1,2 +1,2 @@
 # swiftExtension
-List of swift extension that make life easier
+Collection of swift extension to make life easier
